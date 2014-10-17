@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[dln:home|Door43 (dln)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-dln|d43-dln repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-dln/archive/master.zip|d43-dln.zip]]
+
+**Recent Changes**
+{{changes>ns = dln}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/dln|Ethnologue data]]
+
